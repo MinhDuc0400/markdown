@@ -6,7 +6,7 @@
 **Commit** là mỗi lần thêm, sửa, xoá file. những **commit** như vậy sẽ được lưu vào **repo** để dễ dàng quản lý được sự thay đổi của file thay đổi
 
 **Branch** là khi tách ra từ nhánh **master** để khi code không bị lẫn lộn
-!(https://rogerdudler.github.io/git-guide/img/branches.png)
+![branches](https://rogerdudler.github.io/git-guide/img/branches.png)
 
 
 ## Các lệnh 
@@ -22,7 +22,7 @@
 
 **git push** gửi những thay đổi từ **local repo** đến **remote repo**
 
-!(https://www.earthdatascience.org/images/earth-analytics/git-version-control/git-add-commit.png)
+![gitadd gitcommit](https://www.earthdatascience.org/images/earth-analytics/git-version-control/git-add-commit.png)
 
 # 2. JavaScript/TypeScript
 
